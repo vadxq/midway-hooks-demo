@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import hello, { post } from './apis/lambda';
 
-function App() {
+function App(): JSX.Element {
   const [message, setMessage] = useState('');
 
   useEffect(() => {

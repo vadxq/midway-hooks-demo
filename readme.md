@@ -39,3 +39,7 @@ $ npm run build
 ```bash
 $ node bootstrap.js
 ```
+
+## TODO:
+
+- [ ] vite暂时不支持eslint，后期跟进
